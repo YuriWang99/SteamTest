@@ -13,3 +13,13 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Build/SteamTest_win/Windows/Manifest_DebugFiles_Win64.txt
+Build/SteamTest_win/Windows/Manifest_NonUFSFiles_Win64.txt
+Build/SteamTest_win/Windows/Manifest_UFSFiles_Win64.txt
+Build/SteamTest_win/Windows/SteamTest/Content/Paks/global.ucas
+Build/SteamTest_win/Windows/SteamTest/Content/Paks/global.utoc
+Build/SteamTest_win/Windows/SteamTest/Content/Paks/SteamTest-Windows.pak
+Build/SteamTest_win/Windows/SteamTest/Content/Paks/SteamTest-Windows.ucas
+Build/SteamTest_win/Windows/SteamTest/Content/Paks/SteamTest-Windows.utoc
+Build/Windows/FileOpenOrder/CookerOpenOrder.log
+Build/Windows/FileOpenOrder/EditorOpenOrder.log
