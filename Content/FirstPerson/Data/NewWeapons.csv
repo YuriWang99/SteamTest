@@ -1,0 +1,3 @@
+Row,Name,Fire Mode,Fire Rate,Spread,vRecoil max,vRecoil min,hRecoil max,hRecoil min,Damage,DPS
+0,MG,Auto,0.1,0.2,1.0,1.0,1.0,1.0,10.0,99.999999
+1,Sniper,Auto,1.2,0.01,1.0,1.0,1.0,1.0,100.0,83.33333
